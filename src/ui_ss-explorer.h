@@ -9,7 +9,7 @@
 #ifndef UI_SS_2D_EXPLORER_H
 #define UI_SS_2D_EXPLORER_H
 
-// #include <QtCore/QVariant>
+#include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QDockWidget>
 #include <QtWidgets/QGridLayout>
